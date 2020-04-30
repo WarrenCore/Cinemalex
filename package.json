@@ -26,7 +26,7 @@
     "child_process": "^1.0.2",
     "font-awesome": "^4.7.0",
     "fs": "0.0.1-security",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "jshint": "^2.9.5",
     "plyr": "^2.0.16",
     "simplebar": "^2.5.1",
