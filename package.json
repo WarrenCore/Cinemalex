@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "alertify.js": "^1.0.12",
-    "chart.js": "^2.7.1",
+    "chart.js": "^2.9.4",
     "child_process": "^1.0.2",
     "font-awesome": "^4.7.0",
     "fs": "0.0.1-security",
